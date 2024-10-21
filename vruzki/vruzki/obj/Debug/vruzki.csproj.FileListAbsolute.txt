@@ -1,0 +1,10 @@
+C:\Users\1409-13\Desktop\12a\vruzki\vruzki\bin\Debug\vruzki.exe.config
+C:\Users\1409-13\Desktop\12a\vruzki\vruzki\bin\Debug\vruzki.exe
+C:\Users\1409-13\Desktop\12a\vruzki\vruzki\bin\Debug\vruzki.pdb
+C:\Users\1409-13\Desktop\12a\vruzki\vruzki\obj\Debug\vruzki.csproj.AssemblyReference.cache
+C:\Users\1409-13\Desktop\12a\vruzki\vruzki\obj\Debug\vruzki.Form1.resources
+C:\Users\1409-13\Desktop\12a\vruzki\vruzki\obj\Debug\vruzki.Properties.Resources.resources
+C:\Users\1409-13\Desktop\12a\vruzki\vruzki\obj\Debug\vruzki.csproj.GenerateResource.cache
+C:\Users\1409-13\Desktop\12a\vruzki\vruzki\obj\Debug\vruzki.csproj.CoreCompileInputs.cache
+C:\Users\1409-13\Desktop\12a\vruzki\vruzki\obj\Debug\vruzki.exe
+C:\Users\1409-13\Desktop\12a\vruzki\vruzki\obj\Debug\vruzki.pdb
